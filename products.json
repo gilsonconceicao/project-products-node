@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Notebook",
+        "price": "3343.00",
+        "id": "11bfa6cc-76d3-4ec6-acbf-d80f7c15c61e"
+    },
+    {
+        "name": "Monitor dev",
+        "price": "1100.00",
+        "id": "8cc24682-03d5-4883-a5fc-7d4e1c624520"
+    },
+    {
+        "name": "Mouse Gamer",
+        "price": "220.00",
+        "id": "3931cc99-3ba8-41c8-9225-bdbe673a76bd"
+    }
+]
